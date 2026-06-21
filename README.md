@@ -1,6 +1,7 @@
 # Evrensel Derin Öğrenme Mimarileri ile Yaprak Üzerinden Bitki Hastalığı Tespiti: Benchmark Analizi
 
-[cite_start]Bu proje; tarımsal verimliliği artırmak amacıyla bitki yapraklarındaki hastalıkları erken evrede tespit etmeyi hedefleyen uçtan uca bir bilgisayarlı görü (computer vision) çalışmasıdır[cite: 5]. [cite_start]Proje kapsamında, literatürde standart kabul edilen 4 farklı derin öğrenme mimarisi (VGG16, ResNet-50, MobileNetV2, EfficientNetB0) hem sıfırdan (scratch) eğitilmiş hem de ImageNet ağırlıklarıyla transfer öğrenme (transfer learning) süzgecinden geçirilerek süre ve başarı odaklı karşılaştırmalı analize (benchmark) tabi tutulmuştur[cite: 6, 7, 8].
+Bu proje; tarımsal verimliliği artırmak amacıyla bitki yapraklarındaki hastalıkları erken evrede tespit etmeyi hedefleyen uçtan uca bir bilgisayarlı görü (computer vision) çalışmasıdır 
+Proje kapsamında, literatürde standart kabul edilen 4 farklı derin öğrenme mimarisi (VGG16, ResNet-50, MobileNetV2, EfficientNetB0) hem sıfırdan (scratch) eğitilmiş hem de ImageNet ağırlıklarıyla transfer öğrenme (transfer learning) süzgecinden geçirilerek süre ve başarı odaklı karşılaştırmalı analize (benchmark) tabi tutulmuştur
 
 ---
 
